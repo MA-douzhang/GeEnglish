@@ -7,7 +7,7 @@ GeEnglish：
 后端：Python Flask
 
 ## 项目地址
-前端地址在分支 [GeEnglish项目](https://github.com/2017IOTrepo/EnglishManFlutter)
+前端地址在分支 frontend [GeEnglish项目](https://github.com/MA-douzhang/GeEnglish)
 
 ## 借鉴项目
 * [EnglishManFlutter项目](https://github.com/2017IOTrepo/EnglishManFlutter)
