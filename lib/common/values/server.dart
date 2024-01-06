@@ -8,6 +8,6 @@ const BAIDU_TOKEN_API = "https://aip.baidubce.com/oauth/2.0/token?";
 
 const BAIDU_REST_API = "https://aip.baidubce.com/rest/2.0/ocr/v1/general_basic?";
 
-const AK = "jvEg5UtutkZkiQRLLz69DKoT";
+const AK = "";
 
-const SK = "70DIMBV82U9h0gLjfvtWF5ff2H4QqLHL";
+const SK = "";
