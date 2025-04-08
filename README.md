@@ -5,7 +5,10 @@ GeEnglish：
 移动端：Flutter框架
 
 后端：Python Flask
+# 前言
+***
 
+该项目有完整论文，如有需要请添加WX号：wozuisuainizuichou
 ## 项目地址
 后端地址在分支 backend [GeEnglish项目](https://github.com/MA-douzhang/GeEnglish)
 
